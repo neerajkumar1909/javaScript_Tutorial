@@ -1,4 +1,4 @@
 # javaScript_Tutorial
 
 # Note : 
-Please check the index.html file first to know about the serial of javascript files
+Please check the index.html file first inside the all modules to know about the serial of javascript.js files
